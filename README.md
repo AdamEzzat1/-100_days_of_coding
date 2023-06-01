@@ -8,6 +8,7 @@ This repository comprises two main branches:
 
 - `bash-scripts` branch: Contains Bash scripts that I have developed as part of my coding practice.
 - `python-scripts` branch: Contains Python scripts that I have developed as part of my coding practice.
+- `r-scripts` branch: Contains R scripts that I have developed as part of my coding practice.
 
 Both branches will contain coding projects that I have undertaken as part of my coding practice. I intend to use these projects to experiment with different coding techniques and explore new programming concepts.
 
